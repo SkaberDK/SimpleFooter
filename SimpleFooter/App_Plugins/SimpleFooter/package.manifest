@@ -1,0 +1,14 @@
+﻿{
+    "gridEditors": [
+        {
+            "name": "GoogleMap",
+            "alias": "GoogleMaps",
+            "view": "/App_Plugins/SimpleFooter/editor.html",
+            "icon": "icon-map-location",
+            "config": {
+                "color": "red",
+                "text-align": "right"
+            }
+        }
+    ]
+}
